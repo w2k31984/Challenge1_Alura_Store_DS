@@ -1,14 +1,25 @@
 # Challenge1_Alura_Store_DS
-Desafio sobre obtencion de informacion para cliente a partir de datos obtenidos de sus tiendas.
 
-Descripcion del desafio: <br>
-Me han contratado para realizar este análisis. Nuestro jefe nos ha pedido que hagas la evaluación basándose en estos cinco aspectos: 
- 
-1. Facturación total de cada tienda, es decir, cuál tienda vende más.
-2. Cuál es son las categorías más populares de cada tienda.
-3. Cuál es productos se venden más en cada tienda.
-4. Cuál es el promedio de evaluación de cada uno de los clientes.
-5. Cuál es son los productos más y menos vendidos en cada tienda.
-6. cuál es el costo promedio del envío desde la tienda hasta el lugar de 
-  cada uno de los clientes.
-7. Analisis de los resultados.
+Desafío sobre la obtención de información para clientes a partir de datos obtenidos de sus tiendas.
+
+## Descripción del desafío
+
+He sido contratado para realizar un análisis basado en los datos proporcionados por las tiendas de Alura Store. Nuestro jefe nos ha pedido que evaluemos la información considerando los siguientes aspectos:
+
+1. **Facturación total de cada tienda**: Determinar cuál tienda genera más ingresos.
+2. **Categorías más populares de cada tienda**: Identificar las categorías de productos que tienen mayor demanda en cada tienda.
+3. **Productos más vendidos en cada tienda**: Analizar qué productos son los más populares en cada una de las tiendas.
+4. **Promedio de evaluación de cada cliente**: Calcular el promedio de las calificaciones otorgadas por los clientes.
+5. **Productos más y menos vendidos en cada tienda**: Identificar los productos con mayor y menor cantidad de ventas en cada tienda.
+6. **Costo promedio del envío**: Calcular el costo promedio del envío desde la tienda hasta los clientes.
+7. **Análisis de los resultados**: Interpretar los hallazgos obtenidos y proporcionar conclusiones relevantes.
+
+## Herramientas utilizadas
+
+- **Entorno de desarrollo**: <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab" /> [Google Colab](https://colab.research.google.com/)
+- **Lenguaje de programación**: Python.
+- **Librerías principales**: Pandas (para el manejo y análisis de datos).
+
+---
+
+Este desafío tiene como objetivo extraer información valiosa que permita a Alura Store tomar decisiones estratégicas basadas en datos. A través de este análisis, se espera obtener una visión clara de las fortalezas y áreas de mejora de cada tienda, así como identificar patrones de comportamiento de los clientes.
