@@ -16,7 +16,9 @@ He sido contratado para realizar un análisis basado en los datos proporcionados
 
 ## Herramientas utilizadas
 
-- **Entorno de desarrollo**: <img src="https://colab.research.google.com/assets/colab-badge.svg" /> [Google Colab](https://colab.research.google.com/)
+- **Entorno de desarrollo**: <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+- [Google Colab](https://colab.research.google.com/)
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/w2k31984/Challenge1_Alura_Store_DS/blob/master/Challenge_Alura_Store_DS.ipynb/HEAD)
 - **Lenguaje de programación**: Python.
 - **Librerías principales**: Pandas (para el manejo y análisis de datos).
 
