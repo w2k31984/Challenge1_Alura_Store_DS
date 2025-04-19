@@ -16,10 +16,10 @@ He sido contratado para realizar un análisis basado en los datos proporcionados
 
 ## Herramientas utilizadas
 
-- **Entorno de desarrollo**: <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab" /> [Google Colab](https://colab.research.google.com/)
+- **Entorno de desarrollo**: <img src="https://colab.research.google.com/assets/colab-badge.svg" /> [Google Colab](https://colab.research.google.com/)
 - **Lenguaje de programación**: Python.
 - **Librerías principales**: Pandas (para el manejo y análisis de datos).
 
 ---
 
-Este desafío tiene como objetivo extraer información valiosa que permita a Alura Store tomar decisiones estratégicas basadas en datos. A través de este análisis, se espera obtener una visión clara de las fortalezas y áreas de mejora de cada tienda, así como identificar patrones de comportamiento de los clientes.
+Este desafío tiene como objetivo extraer información valiosa que permita a nuestro cliente tomar decisiones estratégicas basadas en datos. A través de este análisis, se espera obtener una visión clara de las fortalezas y áreas de mejora de cada tienda, así como identificar patrones de comportamiento de los clientes.
